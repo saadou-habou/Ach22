@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Big-Ach-max  
+- 👋 Hi, I’m @Big-Ach-max  | Artilleur
 - 👀 I’m interested in software development, open-source projects, and creating innovative desktop applications.  
 - 🌱 I’m currently learning Rust and enhancing my skills in Python and Laravel.  
 - 💞️ I’m looking to collaborate on exciting projects related to desktop applications or web development.  
