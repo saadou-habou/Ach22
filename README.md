@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Big-Ach-max  | @Artilleur
+- 👋 Hi, I’m Saadou Habou Mousal Ach Ari  AKA Artilleur
 - 👀 I’m interested in software development, open-source projects, and creating innovative desktop applications.  
-- 🌱 I’m currently learning Rust and enhancing my skills in Python and Laravel.  
+- 🌱 I’m currently learning React.js and enhancing my skills in Python and C#.  
 - 💞️ I’m looking to collaborate on exciting projects related to desktop applications or web development.  
 - 📫 How to reach me: artilleur667@gmail.com or via [LinkedIn]([https://www.linkedin.com/in/big-ach-max/](https://www.linkedin.com/in/saadou-habou-mousal-ach-ari-22733833b/).  
 - 😄 Pronouns: He/Him  
