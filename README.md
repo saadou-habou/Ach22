@@ -2,6 +2,6 @@
 - 👀 I’m interested in software development, open-source projects, and creating innovative desktop applications.  
 - 🌱 I’m currently learning React.js and enhancing my skills in Python and C#.  
 - 💞️ I’m looking to collaborate on exciting projects related to desktop applications or web development.  
-- 📫 How to reach me: artilleur667@gmail.com or via [LinkedIn]([https://www.linkedin.com/in/sadouhabou/](https://www.linkedin.com/in/sadouhabou/).  
+- 📫 How to reach me: artilleur667@gmail.com or via [LinkedIn]([https://www.linkedin.com/in/sadouhabou/])(https://www.linkedin.com/in/sadouhabou/).  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I enjoy debugging code so much that I call it "bug hunting"! 🐞🔍  
