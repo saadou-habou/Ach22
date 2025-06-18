@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m Saadou Habou Mousal Ach Ari  AKA Artilleur
+# 👋 Hi, I’m Saadou Habou Mousal Ach Ari  AKA Artilleur
 - 👀 I’m interested in software development, open-source projects, and creating innovative desktop applications.  
 - 🌱 I’m currently learning React.js and enhancing my skills in Python and C#.  
 - 💞️ I’m looking to collaborate on exciting projects related to desktop applications or web development.  
